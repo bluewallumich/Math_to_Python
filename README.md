@@ -1,6 +1,8 @@
 # Data Science & Machine Learning Algorithms
 
 This repository provides implementations of fundamental data science statistical methods and machine learning algorithms.
+I am more or less using this to facilitate my own learning.   
+
 
 ## Table of Contents
 
