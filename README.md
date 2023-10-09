@@ -18,7 +18,7 @@ This will be created mostly in Pyton and Jupyter Notebook.
 ## Data Science Statistical Methods
 
 ### Descriptive Statistics
-- [Mean, Median, Mode](Data Science/Descriptive_Analytics/Mean_Median_Mode.ipynb)
+- [Mean, Median, Mode](Data%20Science/Descriptive_Analytics/Mean_Median_Mode.ipynb)
 - Standard Deviation & Variance
 - Skewness & Kurtosis
 - Range, Interquartile Range (IQR)
