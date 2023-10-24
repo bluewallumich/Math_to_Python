@@ -19,7 +19,7 @@ This will be created mostly in Pyton and Jupyter Notebook.
 
 ### Descriptive Statistics
 - [Mean, Median, Mode](Data%20Science/Descriptive_Analytics/Mean_Median_Mode.ipynb)
-- Standard Deviation & Variance
+- [Standard Deviation & Variance](Data%20Science/Descriptive_Analytics/Standard%20Deviation%20&%20Variance.ipynb)
 - Skewness & Kurtosis
 - Range, Interquartile Range (IQR)
 - Percentiles & Quartiles
