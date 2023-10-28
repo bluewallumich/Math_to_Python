@@ -1,3 +1,6 @@
+# Math To Python Project
+<img src="youngme.png" width="400" height="400" alt="Alt text">
+
 # Data Science & Machine Learning Algorithms
 
 This repository provides implementations of fundamental data science statistical methods and machine learning algorithms.
